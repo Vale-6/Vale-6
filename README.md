@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi,
+I'm Valentina,
+this is my archive and here you will find all my projects👋
 
 <!--
 **Vale-6/Vale-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
