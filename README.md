@@ -6,6 +6,7 @@ I'm continuing to study new things and I'm always ready to do so
 
 <img src="https://cdn.pixabay.com/photo/2023/02/15/20/01/ai-generated-7792597_1280.jpg"/>
 
+
 ### Languages
 <img src=/>
 
