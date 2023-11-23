@@ -2,6 +2,9 @@
 I'm Valentina,
 this is my archive and here you will find all my projects👋
 
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricaCandido"/>
+
 ### Fields of application
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
