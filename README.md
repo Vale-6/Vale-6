@@ -2,6 +2,18 @@
 I'm Valentina,
 this is my archive and here you will find all my projects👋
 
+### Fields of application
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+
+
 <!--
 **Vale-6/Vale-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
