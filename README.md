@@ -4,7 +4,7 @@ this is my archive and here you will find all my projects.👋</br>
 I started programming thanks to high school and after a while I enrolled in a Front-end Development course.
 I'm continuing to study new things and I'm always ready to do so
 
-<img src=https://iconscout.com/lottie-animation/programmer-6540746/>
+<img src=[https://iconscout.com/lottie-animation/programmer-6540746](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-6540746-5540750.mp4)/>
 
 ### Languages
 <img src=/>
